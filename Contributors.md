@@ -5,6 +5,7 @@
 - [Aditya Prakash Gupta](https://github.com/evadrake89)
 - [Varanasi Aditya Sai](https://github.com/fvaysh)
 - [Dibya Ranjan Sahoo](https://github.com/100-dibya)
+- [Joy Lutenyo](https://github.com/joy-lutenyo)
 - [Nakesh Tewari](https://github.com/NakeshTewari)
 - [Aviraj Gour](https://github.com/avirajsingh7)
 - [Anargha Pal](https://github.com/anargha-pal)
